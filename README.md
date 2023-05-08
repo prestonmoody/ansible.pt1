@@ -1,2 +1,2 @@
 # ansible.pt1
-work related to ansiblew
+work related to ansible
